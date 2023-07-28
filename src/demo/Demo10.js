@@ -45,5 +45,3 @@ const Demo10 = () => {
 }
 
 export default Demo10;
-
-// upgrade回调函数是创建/删除store的唯一途径。
